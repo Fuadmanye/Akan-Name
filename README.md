@@ -15,7 +15,7 @@ currentyly taking a course in software development
 * style with css
 * commit any changes and push them to your github account
 * use js to interact with the akan name for feedback
-##BDD
+## BDD
 sample input
 2000 04 16 Male
 expected output
