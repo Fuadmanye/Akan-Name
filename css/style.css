@@ -6,7 +6,16 @@
     border-color: black;
     border-style: solid;
     border-width: 1px;
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    padding: 10px 5 px;
+    word-break: normal;
+}
+.tg td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, Helvetica, sans-serif;
     overflow: hidden;
     padding: 10px 5 px;
     word-break: normal;
