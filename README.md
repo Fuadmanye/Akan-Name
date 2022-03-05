@@ -10,12 +10,11 @@ depending on the gender and the day.
 My name is Fuad a student in moringa school
 currentyly taking a course in software development
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* open your vs code
+* record your data
+* style with css
+* commit any changes and push them to your github account
+* use js to interact with the akan name for feedback
 ##BDD
 sample input
 2000 04 16 Male
@@ -26,8 +25,8 @@ which is Kwasi according to the gender and the day of the week
 *HTML
 *CSS
 *JAVASCRIPT
-## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+## contact information
+Fuadmanye - fuad.manyi@student.moringaschool.com
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
