@@ -26,7 +26,7 @@ which is Kwasi according to the gender and the day of the week
 *CSS
 *JAVASCRIPT
 ## contact information
-Fuadmanye - fuad.manyi@student.moringaschool.com
+https://fuadmanye.github.io/Akan-Name/
 ### License
 
 
