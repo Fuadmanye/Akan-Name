@@ -2,3 +2,12 @@
     color: rgb(25, 100, 75);
     text-align: center;
 }
+.tg th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+    padding: 10px 5 px;
+    word-break: normal;
+}
