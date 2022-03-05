@@ -6,7 +6,7 @@ on which the person is born.
 this project takes the persons birthday and gender information
 determines the day he/she was born and provide the Akan name
 depending on the gender and the day.
-##Authors information
+## Authors information
 My name is Fuad a student in moringa school
 currentyly taking a course in software development
 ## Setup/Installation Requirements
