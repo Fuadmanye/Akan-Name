@@ -20,3 +20,13 @@
     padding: 10px 5 px;
     word-break: normal;
 }
+.header {
+    padding: 15px;
+    font-family: 700;
+    font-size: x-large;
+}
+body {
+    font-family: cursive;
+    text-align: center;
+    color: rgb(61, 43, 43);
+}
