@@ -30,6 +30,6 @@ fuad.manyi@student.moringaschool.com
 ##### live link
 (https://fuadmanye.github.io/Akan-Name/)
 ### License
-
+Copyright (c) 2022 [click here to view license](LICENSE)
 
 
