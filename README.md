@@ -28,6 +28,7 @@ which is Kwasi according to the gender and the day of the week
 ## contact information
 https://fuadmanye.github.io/Akan-Name/
 ### License
+Copyright (c) 2022 click here to view license
 
 
 
